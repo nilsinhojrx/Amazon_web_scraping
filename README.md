@@ -22,4 +22,4 @@ Automação que coleta dados de produtos, com base em uma pesquisa feita do site
 - selenium
 - parsel
 - csv
-- time sleep
+- time.sleep
