@@ -17,3 +17,9 @@ Automação que coleta dados de produtos, com base em uma pesquisa feita do site
 5) Salvar os dados coletados em um arquivo CSV
 
 6) Fechar o navegador
+
+**Pacotes utilizados**
+- selenium
+- parsel
+- csv
+- time sleep
