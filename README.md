@@ -11,9 +11,6 @@ Automação que coleta dados de produtos, com base em uma pesquisa feita do site
 2) Passo: fazer a pesquisa
 
 3) Coletar os dados dos produtos da primeira página:
-- Nome
-- Preço
--  Avaliação
 
 4) Mudar de página coletar os dados de cada uma delas
 
